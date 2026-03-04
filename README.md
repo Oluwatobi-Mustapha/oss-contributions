@@ -1,4 +1,4 @@
-## Open Source Contributions
+# Open Source Contributions
 
 A curated list of my merged open-source pull requests, focusing on identity infrastructure and security.
 
@@ -8,4 +8,6 @@ A curated list of my merged open-source pull requests, focusing on identity infr
 
 3. [Restored identity persistence by properly decoding Set-Cookie values to prevent cryptographic cookie double-encoding during session refreshes in `better-auth`](https://github.com/better-auth/better-auth/pull/8133)
 
-4. [Did an IAM Security review and enforced fixes in `leapstacks2`](https://github.com/bfateen/leapstacks2)
+4. [Engineered OpenID for Verifiable Credential Issuance (OID4VCI) flow updates to support `credential_configuration_id` processing in `keycloak`](https://github.com/keycloak/keycloak/pull/46690)
+
+5. [Did an IAM Security review and enforced fixes in `leapstacks2`](https://github.com/bfateen/leapstacks2)
