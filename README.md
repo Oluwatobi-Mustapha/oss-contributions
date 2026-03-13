@@ -29,3 +29,5 @@ A curated list of my merged open-source pull requests, focused on identity infra
 13. [Fixed an OAuth2 credential-decoding flaw that caused application lockouts in <kbd>Authentik</kbd>](https://github.com/goauthentik/authentik/pull/20781)
 
 14. [Improved OAuth error handling in the Google Sheets integration to ensure secure re-authentication and safe retry behavior in <kbd>Home Assistant Core</kbd>](https://github.com/home-assistant/core/pull/165000)
+
+15. [Fixed organization-scoped membership resolution to enforce correct user membership checks in <kbd>Keycloak</kbd>](https://github.com/keycloak/keycloak/pull/47083)
