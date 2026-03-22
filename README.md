@@ -1,6 +1,6 @@
 ## Open Source Contributions
 
-A curated list of my merged open-source pull requests, focused on identity infrastructure, authentication, authorization, and cloud security.
+A list of my merged open-source pull requests, focused on identity infrastructure, authentication, authorization, and cloud security.
 
 1. [Enhanced OID4VCI authorization handling to support secure decentralized identity issuance in <kbd>Keycloak</kbd>](https://github.com/keycloak/keycloak/pull/46690)
 
