@@ -22,7 +22,7 @@ The list of my merged open-source pull requests, focused on identity infrastruct
 
 10. [Fixed `Set-Cookie` decoding logic to restore persistent session integrity in <kbd>Better Auth</kbd>](https://github.com/better-auth/better-auth/pull/8133)
 
-11. [Resolved an authentication-session edge case causing `NullPointerException` failures in <kbd>Keycloak</kbd>](https://github.com/keycloak/keycloak/pull/46878)
+(https://github.com/keycloak/keycloak/pull/46878)
 
 12. [Fixed admin UI pagination to improve auditing of enterprise client sessions in <kbd>Keycloak</kbd>](https://github.com/keycloak/keycloak/pull/46889)
 
