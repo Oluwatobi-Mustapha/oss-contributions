@@ -2,20 +2,21 @@
 
 <p align="center">
   <strong>My upstream security fixes and hardening work across identity systems, authentication flows, authorization boundaries, and cloud access controls.</strong><br />
-  
+  <sub>16 merged pull requests and 1 security review contribution across 6 open-source projects.</sub>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MERGED%20PRS-15-C1121F?style=flat-square&labelColor=0D1117&logo=github&logoColor=E6EDF3" alt="15 merged pull requests" />
+  <img src="https://img.shields.io/badge/MERGED%20PRS-16-C1121F?style=flat-square&labelColor=0D1117&logo=github&logoColor=E6EDF3" alt="16 merged pull requests" />
   <img src="https://img.shields.io/badge/PROJECTS-6-30363D?style=flat-square&labelColor=0D1117&logo=opensourceinitiative&logoColor=E6EDF3" alt="6 open source projects" />
   <img src="https://img.shields.io/badge/FOCUS-IDENTITY%20%26%20CLOUD%20SECURITY-7F1D1D?style=flat-square&labelColor=0D1117&logo=dependabot&logoColor=E6EDF3" alt="Identity and cloud security focus" />
 </p>
 
 ### Keycloak
-> 7 merged PRs · decentralized identity · FGAP · OIDC fidelity · session integrity · admin UX
+> 8 merged PRs · decentralized identity · FGAP · token exchange · OIDC fidelity · session integrity · admin UX
 
 - OID4VCI authorization hardening for decentralized identity issuance ([#46690](https://github.com/keycloak/keycloak/pull/46690))
 - FGAP enforcement fix for user membership updates ([#46957](https://github.com/keycloak/keycloak/pull/46957))
+- FGAPv2 token-exchange audience-check fix to deny unsupported requests gracefully ([#46967](https://github.com/keycloak/keycloak/pull/46967))
 - OIDC value-persistence fix separating localized labels from protocol values ([#46880](https://github.com/keycloak/keycloak/pull/46880))
 - No-cache enforcement on UserInfo error responses ([#46979](https://github.com/keycloak/keycloak/pull/46979))
 - Authentication-session edge-case fix for `NullPointerException` failures ([#46878](https://github.com/keycloak/keycloak/pull/46878))
