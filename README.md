@@ -2,9 +2,7 @@
 
 <p align="center">
   <strong>My upstream security fixes and hardening work across identity systems, authentication flows, authorization boundaries, and cloud access controls.</strong><br />
-  <sub>16 merged pull requests and 1 security review contribution across 6 open-source projects.</sub>
-</p>
-
+  
 <p align="center">
   <img src="https://img.shields.io/badge/MERGED%20PRS-16-C1121F?style=flat-square&labelColor=0D1117&logo=github&logoColor=E6EDF3" alt="16 merged pull requests" />
   <img src="https://img.shields.io/badge/PROJECTS-6-30363D?style=flat-square&labelColor=0D1117&logo=opensourceinitiative&logoColor=E6EDF3" alt="6 open source projects" />
