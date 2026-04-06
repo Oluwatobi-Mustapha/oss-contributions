@@ -4,7 +4,7 @@
   <strong>My upstream security fixes and hardening work across identity systems, authentication flows, authorization boundaries, and cloud access controls.</strong><br />
   
 <p align="center">
-  <img src="https://img.shields.io/badge/MERGED%20PRS-18-238636?style=flat-square&labelColor=0D1117&logo=github&logoColor=E6EDF3" alt="18 merged pull requests" />
+  <img src="https://img.shields.io/badge/MERGED%20PRS-19-238636?style=flat-square&labelColor=0D1117&logo=github&logoColor=E6EDF3" alt="19 merged pull requests" />
   <img src="https://img.shields.io/badge/PROJECTS-6-30363D?style=flat-square&labelColor=0D1117&logo=opensourceinitiative&logoColor=E6EDF3" alt="6 open source projects" />
   <img src="https://img.shields.io/badge/FOCUS-IDENTITY%20%26%20CLOUD%20SECURITY-1B3A57?style=flat-square&labelColor=0D1117&logo=dependabot&logoColor=E6EDF3" alt="Identity and cloud security focus" />
 </p>
@@ -42,10 +42,12 @@
 ---
 
 ### Cloud Custodian
-> 2 merged PRs · AWS IAM telemetry · compliance signal accuracy · SecurityHub Lambda findings
+> 3 merged PRs · AWS IAM telemetry · compliance signal accuracy · SecurityHub Lambda findings
 
 - AWS IAM exception-handling fix restoring accurate `AccessDenied` compliance telemetry ([#10614](https://github.com/cloud-custodian/cloud-custodian/pull/10614))
 - SecurityHub Lambda findings fix sanitizing unsupported `VpcConfig` fields for schema-valid imports ([#10625](https://github.com/cloud-custodian/cloud-custodian/pull/10625))
+- aws - policystatement - normalize condition key case in `has-statement` ([#10623](https://github.com/cloud-custodian/cloud-custodian/pull/10623))
+
 
 ---
 
