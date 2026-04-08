@@ -1,7 +1,7 @@
 ## Open Source Contributions
 
 <p align="center">
-  <strong>My upstream security fixes and hardening work across identity systems, authentication flows, authorization boundaries, and cloud access controls.</strong><br />
+  <strong>Contributed security fixes and hardening for identity, authentication, authorization, and cloud access controls.</strong><br />
   
 <p align="center">
   <img src="https://img.shields.io/badge/MERGED%20PRS-20-238636?style=flat-square&labelColor=0D1117&logo=github&logoColor=E6EDF3" alt="19 merged pull requests" />
