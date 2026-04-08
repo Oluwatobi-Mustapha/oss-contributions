@@ -4,7 +4,7 @@
   <strong>My upstream security fixes and hardening work across identity systems, authentication flows, authorization boundaries, and cloud access controls.</strong><br />
   
 <p align="center">
-  <img src="https://img.shields.io/badge/MERGED%20PRS-19-238636?style=flat-square&labelColor=0D1117&logo=github&logoColor=E6EDF3" alt="19 merged pull requests" />
+  <img src="https://img.shields.io/badge/MERGED%20PRS-20-238636?style=flat-square&labelColor=0D1117&logo=github&logoColor=E6EDF3" alt="19 merged pull requests" />
   <img src="https://img.shields.io/badge/PROJECTS-6-30363D?style=flat-square&labelColor=0D1117&logo=opensourceinitiative&logoColor=E6EDF3" alt="6 open source projects" />
   <img src="https://img.shields.io/badge/FOCUS-IDENTITY%20%26%20CLOUD%20SECURITY-1B3A57?style=flat-square&labelColor=0D1117&logo=dependabot&logoColor=E6EDF3" alt="Identity and cloud security focus" />
 </p>
@@ -52,10 +52,11 @@
 ---
 
 ### Home Assistant Core
-> 2 merged PRs · OAuth error handling · safe re-authentication · token refresh recovery
+> 3 merged PRs · OAuth error handling · safe re-authentication · token refresh recovery
 
 - Google Sheets OAuth recovery fix for safe re-authentication and retry behavior ([#165000](https://github.com/home-assistant/core/pull/165000))
 - Google Mail token-refresh handling fix preserving correct re-authentication and fallback behavior ([#165371](https://github.com/home-assistant/core/pull/165371))
+- Redact Z-Wave add-on options sensitive error details ([#167239](https://github.com/home-assistant/core/pull/167239#event-24308447552))
 
 ---
 
