@@ -4,7 +4,7 @@
   <strong>Contributed security fixes and hardening for identity, authentication, authorization, and cloud access controls.</strong><br />
   
 <p align="center">
-  <img src="https://img.shields.io/badge/MERGED%20PRS-20-238636?style=flat-square&labelColor=0D1117&logo=github&logoColor=E6EDF3" alt="19 merged pull requests" />
+  <img src="https://img.shields.io/badge/MERGED%20PRS-21-238636?style=flat-square&labelColor=0D1117&logo=github&logoColor=E6EDF3" alt="19 merged pull requests" />
   <img src="https://img.shields.io/badge/PROJECTS-6-30363D?style=flat-square&labelColor=0D1117&logo=opensourceinitiative&logoColor=E6EDF3" alt="6 open source projects" />
   <img src="https://img.shields.io/badge/FOCUS-IDENTITY%20%26%20CLOUD%20SECURITY-1B3A57?style=flat-square&labelColor=0D1117&logo=dependabot&logoColor=E6EDF3" alt="Identity and cloud security focus" />
 </p>
@@ -24,11 +24,12 @@
 ---
 
 ### Better Auth
-> 3 merged PRs · OTP safety · cryptographic validation · session integrity
+> 4 merged PRs · OTP safety · cryptographic validation · session integrity
 
 - OTP race-condition fix blocking unauthorized token reuse ([#8067](https://github.com/better-auth/better-auth/pull/8067))
 - Strict cryptographic validation to reduce active session hijacking risk ([#8121](https://github.com/better-auth/better-auth/pull/8121))
 - `Set-Cookie` decoding fix restoring persistent session integrity ([#8133](https://github.com/better-auth/better-auth/pull/8133))
+- Correct get-session nullable schema for OAS 3.1 ([#8389](https://github.com/better-auth/better-auth/pull/8389#event-24351103977))
 
 ---
 
