@@ -4,13 +4,13 @@
   <strong>Contributed security fixes and hardening for identity, authentication, authorization, and cloud access controls.</strong><br />
   
 <p align="center">
-  <img src="https://img.shields.io/badge/MERGED%20PRS-22-238636?style=flat-square&labelColor=0D1117&logo=github&logoColor=E6EDF3" alt="19 merged pull requests" />
+  <img src="https://img.shields.io/badge/MERGED%20PRS-23-238636?style=flat-square&labelColor=0D1117&logo=github&logoColor=E6EDF3" alt="19 merged pull requests" />
   <img src="https://img.shields.io/badge/PROJECTS-6-30363D?style=flat-square&labelColor=0D1117&logo=opensourceinitiative&logoColor=E6EDF3" alt="6 open source projects" />
   <img src="https://img.shields.io/badge/FOCUS-IDENTITY%20%26%20CLOUD%20SECURITY-1B3A57?style=flat-square&labelColor=0D1117&logo=dependabot&logoColor=E6EDF3" alt="Identity and cloud security focus" />
 </p>
 
 ### Keycloak
-> 8 merged PRs · decentralized identity · FGAP · token exchange · OIDC fidelity · session integrity · admin UX
+> 9 merged PRs · decentralized identity · FGAP · token exchange · OIDC fidelity · session integrity · admin UX
 
 - OID4VCI authorization hardening for decentralized identity issuance ([#46690](https://github.com/keycloak/keycloak/pull/46690))
 - FGAP enforcement fix for user membership updates ([#46957](https://github.com/keycloak/keycloak/pull/46957))
@@ -20,6 +20,8 @@
 - Authentication-session edge-case fix for `NullPointerException` failures ([#46878](https://github.com/keycloak/keycloak/pull/46878))
 - Admin UI pagination fix for client-session auditing ([#46889](https://github.com/keycloak/keycloak/pull/46889))
 - Organization-scoped membership resolution fix ([#47083](https://github.com/keycloak/keycloak/pull/47083))
+- Allow organization IdPs for members linked to another broker ([#47634](https://github.com/keycloak/keycloak/pull/47634))
+
 
 ---
 
