@@ -64,13 +64,13 @@
 ---
 
 ### Zitadel
-> 1 merged PRs · gRPC error · authentication tightening · endpoint proper communications
+> 1 merged PR · gRPC error · authentication tightening · endpoint proper communications
 
 - Preserves native gRPC status errors so they pass through correctly ([#11786](https://github.com/zitadel/zitadel/pull/11786#event-24379627497))
   
 ---
 
 ### Leapstacks2
-> 1 security review contribution · AWS IAM review · structural access controls
+> 5 security review contribution · AWS IAM review · structural access controls
 
 - AWS IAM security review and structural access-control hardening plus a misconfiguration deep dive ([repository](https://github.com/bfateen/leapstacks2))
